@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width", initial-scale="1.0">
+<meta name="author" content="Tommy Ackerman">
+<meta name="description" content="There’s no timetable for how long grief lasts or how you should feel. In this guide we cover the question \u0027How long does grief last?\u0027 and the \u0027grief timeline\u0027">
+<meta name="keywords" content="Sue Ryder, grief, grief support, bereavement support, coping with grief">
+<link rel="stylesheet" href="CREATE AND ADD IN RELEVANT STYLESHEET.css"/>
+<title>How long does grief last? | Bereavement Support | Sue Ryder</title>
+</head>
+<body>
+<header class="header">
+    <div class="header--inner">
+      <div class="header--content">
+        <h1><span class="field field--name-title field--type-string field--label-hidden">How long does grief last?</span>
+</h1>      
+    </div>
+  </header>
+
+</figure>    
+  </div>
+    <div class="paragraph paragraph--type--text-image paragraph--view-mode--default paragraph--orientation--image-left--text-right">
+    <div class="paragraph--inner">
+      <div class="paragraph--content">
+                    <h2>Jump to:</h2>
+<h3>Learning to live with grief</h3>
+<ul><li><strong><a href="#better">When will I feel better after a bereavement?</a></strong></li>
+<li><strong><a href="#early_stages_grief">The early stages of grief</a></strong></li>
+<li><strong><a href="#first_year">The first year</a></strong></li>
+<li><strong><a href="#two_years_on">Two years on</a></strong></li>
+<li><strong><a href="#grief_partner">How long does grief last after the death of a partner?</a></strong></li>
+<li><strong><a href="#growing_around_grief">Growing around grief - Tonkin's model of grief</a></strong></li>
+</ul><h3>Coping with grief longer-term</h3>
+<ul><li><a href="#feeling_worse"><strong>I thought I was doing fine, but now I feel worse</strong></a></li>
+<li><a href="#little_things"><strong>Little things take me by surprise and suddenly I feel overwhelmed by grief</strong></a></li>
+<li><a href="#talk_about_partner"><strong>I want to talk about my partner, but others don’t</strong></a></li>
+<li><a href="#cant_move_on"><strong>People think I should move on, but I can’t</strong></a></li>
+<li><a href="#other_people"><strong>Other people seem to be coping better than me</strong></a></li>
+<li><a href="#socialising"><strong>I can’t face socialising or meeting up with friends</strong></a></li>
+<li><a href="#overwhelmed_grief"><strong>I feel overwhelmed by grief and just want it to stop</strong></a></li>
+<li><a href="#cant_talk"><strong>I can’t talk to people about how I’m feeling</strong></a></li>
+<li><a href="#grieving_at_all"><strong>People don’t think I should be grieving at all</strong></a></li>
+</ul><h2>Learning to live with grief</h2>
+<p>Learning to live with the death of someone close to you can take a long time, and just as everyone’s grief is different, each person feels differently as time passes after a bereavement.</p>
+<p>This short video about how long grief lasts was produced for our <a href="/how-we-can-help/bereavement-information/grief-kind">Grief Kind campaign</a> to help people support those they care about who are grieving. However, the information in it is also relevant if you are grieving and have questions around how long it will last. It might also provide some ideas for ways you could ask people to help support you.</p>
+
+
+              </div>
+    </div>
+  </div>
+
+    <div class="paragraph paragraph--type--video paragraph--view-mode--default">
+    <div class="paragraph--inner">
+      <div class="paragraph--content">
+                    <figure class="media media--type-video media--view-mode-">
+  
+      
+            <div class="field field--name-field-video-embed field--type-video-embed-field field--label-hidden field__item"><div class="video-embed-field-provider-youtube video-embed-field-responsive-video"><iframe width="854" height="480" frameborder="0" allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/zBoIAPRtDR8?autoplay=0&amp;start=0&amp;rel=0"></iframe>
+</div>
+</div>
+      
+  </figure>
+
+</div>
+
+    <div class="paragraph paragraph--type--text-image paragraph--view-mode--default paragraph--orientation--image-left--text-right">
+    <div class="paragraph--inner">
+      <div class="paragraph--content">
+                    <h3 id="better"><strong>When will I feel better after a bereavement?</strong></h3>
+<p>You and the people around you may have expectations about how quickly you should move on. But <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="8033ac49-c5de-47a9-9e0f-af9d6defd065" href="/how-we-can-help/bereavement-information" title="Bereavement information">grief</a> changes over time, as you understand how different your life is without the person. We are all different and there is no timetable or grief timeline for how long it will take you.</p>
+<h3 id="early_stages_grief"><strong>The early stages of grief</strong></h3>
+<p>In the <a href="/how-we-can-help/bereavement-information/support-for-yourself/stages-of-grief">early stages of grief</a> you may be caught up in a whirlwind of things that you need to do and sort out, or you may feel shocked and numb. After several months, the initial support you had from friends and family may start to fade. At the same time, as people start to provide less support, you may find you start to feel less numb. </p>
+<h3 id="first_year"><strong>The first year</strong></h3>
+<p>It generally takes about a year to realise how much has changed in your life, both emotionally and practically. Some things only come up once a year, like celebrating a birthday or <a href="/how-we-can-help/bereavement-information/support-for-yourself/christmas">Christmas</a>, or doing something the person who has died used to do, like renewing the car insurance. Each time one of these things happens, you are reminded of your bereavement, and your feelings of grief may come to the surface.</p>
+<p>It may feel as if you are on an emotional roller coaster, where one minute you are coping and the next you feel overwhelmed by grief. You are likely to find you have some good days and some bad days.</p>
+<p>As time passes, the balance between good days and bad days shifts and gradually you will find you have more good days and fewer bad days. But these changes are gradual, and each person is different, so the balance for you may not be the same as someone else after the same length of time.</p>
+<p>Some of the physical symptoms of grief, such as having trouble sleeping and losing your appetite, also lessen over time. Taking care of yourself by eating well, getting some exercise and sleeping will help you to feel better in yourself and to cope.</p>
+<h3 id="two_years_on"><strong>Two years on</strong></h3>
+<p>Although the intensity of your feelings may lessen over time, there is no timetable for how long you will grieve. The length of time is different for each person. For most people their mourning period is a long process and it can take years. After about two years you are likely to know the places, events and occasions that trigger your emotions. As you start to know these, you will also learn what helps you to cope with them.</p>
+<p>After a while people around you – family, friends and colleagues at work – may forget what you have been through, or may encourage you to move on. You yourself may even feel that you ought to have moved on. But the goal is not to move on. Your grief is not something that can or should be ‘fixed’. The goal is to find a way to live with and cope with your feelings.</p>
+<p>You may eventually come to a point where your feelings of grief are a reminder of the person, and that in itself can be a source of comfort.</p>
+<h2 id="grief_partner"><strong>How long does grief last after the death of a partner?</strong></h2>
+<p>As with grief after any bereavement, there will be no set timeline for how long your grief will last after your partner’s death. You may find that you go through a range of different emotions, from anger and sadness, to regret and guilt. Or maybe you feel quite numb after the shock of your partner’s death.</p>
+<p>However you feel, remember that there is no right or wrong way to grieve for your partner. Everyone deals with a bereavement in their own way and this is the same when a partner dies. Take the time to grieve in your own way and don’t be too hard on yourself. </p>
+<p>Grief is forever. Over time it will vary in intensity, what it looks and feels like, and how it is part of your life.</p>
+<h2 id="growing_around_grief"><strong>Growing around grief - Tonkin’s model of grief</strong></h2>
+<p>A lot of people find that, over time, they are able to live with their grief and make space in their life for other things. Places you go, foods you eat or maybe music you hear will bring back memories and sometimes make you feel sad again, but many find their life still can still slowly flower around their grief.</p>
+<p>Tonkin’s model of grief, created by grief counsellor Lois Tonkin, is a model for growing around grief through your life, instead of simply ‘getting over it’. First published in <a href="https://www.tandfonline.com/doi/abs/10.1080/02682629608657376">her 1996 article ‘Growing around grief—another way of looking at grief and recovery’</a>, Tonkin was initially inspired by a sketch drawn by a mother whose child had died. She tried to show how she expected her grief to progress after losing her child and how this actually happened over time. Instead of her grief diminishing, it remained the same, but instead her life slowly became bigger around it, developing, growing. She still lived with her grief, but her life around it continued to grow.</p>
+<p>Moving on doesn’t mean that you are forgetting the person who has died. It just means you’ve accepted your bereavement, but that’s not the same as forgetting. You can move on with your life and keep the memory of someone as an important part of you. In fact, as you move through life, these memories can become more and more significant in defining who you are.</p>
+<p>This is what Tonkin means by ‘growing around grief’. Imagine your life as a circle, containing everything you’re experiencing. Now, shade in the circle to represent your grief. This represents you and your grief. For some, the majority of the circle may be shaded to show how all-consuming their grief is.</p>
+<p>What then happens in the following days, months and years is important. Rather than feeling like the shaded area is getting smaller, the outer circle - representing you and everything in your life - grows bigger.</p>
+<p>The result looks somewhat like a fried egg, with the yolk representing your grief and the white growing around it as your life continues to grow around it. Some people describe this as adjusting to life and living around your grief, not losing your grief.</p>
+<p>You’ll have new experiences, meet new people and begin to find new moments of enjoyment. Slowly, these moments may become more frequent, and your outer circle might grow a little bigger.</p>
+<p>This doesn’t mean your grief will disappear. During difficult times, you might even find that it grows. But - even if you don’t see how it could, or perhaps don’t want it to - grief will no longer dominate your circle as you, and your life, grow around it.</p>
+<p><a href="https://whatsyourgrief.com/growing-around-grief/" target="_blank">What’s your grief have a really helpful page on Tonkin’s model of grief and the different ways people have represented it visually</a></p>
+<h2><strong>Coping with grief longer-term</strong></h2>
+<p>We have described below some of the feelings people have told us they experience over time. You may feel some or all of these and many other feelings too.</p>
+<h3 id="feeling_worse"><strong><strong>I thought I was doing fine, but now I feel worse</strong></strong></h3>
+<p>There are lots of reasons why you might find that over time you feel your grief more rather than less. In the early stages, you may be caught up in a whirlwind of things that you need to do and sort out.</p>
+<p>Friends, relatives and even work colleagues, are likely to be very conscious of what has happened and make time and effort to support you. But gradually things settle down and support from friends and relatives wanes. Only then do you have the time and space to understand how different your life is without the person you cared for.</p>
+<p>You may find that you aren’t able to grieve at first because you have caring responsibilities. For example, if you have <a href="/how-we-can-help/bereavement-information/supporting-a-child/how-do-i-support-a-bereaved-child">young children</a> or perhaps an elderly relative that you need to look after, your initial focus may be on supporting them.</p>
+<p>Your own feelings of grief might be delayed after a bereavement. It may only be later that it feels real that the person has died, as you are able to make space for your own sense of grief. You may feel very angry at first. Feeling angry is very common, for example if your friend or relative was diagnosed late, but might have lived if they were diagnosed earlier, or if there were issues with their treatment.</p>
+<p>At first you may focus on the aspects of the person’s treatment or care that you were unhappy with. Your sense of anger may replace your grief. Those feelings of anger can stay for a long time. You may find that you don’t want support or counselling at first but, as your feelings change over time, you may decide you do.</p>
+<p>It is ok to ask for support when you need it, even if it is quite a long time after your friend or relative has died.</p>
+<h3 id="little_things"><strong><strong>Little things take me by surprise and suddenly I feel overwhelmed by grief</strong></strong></h3>
+<p>Over time, you will find a way to live with some of the more day-to-day reminders of the person you love. It is some of the unpredictable things, like a song on the radio, or finding one of their belongings in a drawer, that can trigger unexpected feelings. It can be particularly hard when this happens in public, for example, if you see someone’s favourite cake in the supermarket.</p>
+<p>Although it is completely normal to be upset, you might feel uncomfortable with being emotional in public. Unfortunately, it may make it harder that other people often don’t know how to respond when this happens.</p>
+<p>Although other people may not know how to handle it if this happens to you, and may pretend that they haven’t noticed, it is not wrong for you to feel or act like this. In fact, it is completely understandable. Although it is hard, you shouldn’t feel embarrassed.</p>
+<h3 id="talk_about_partner"><strong><strong>I want to talk about my partner, but others don’t</strong></strong></h3>
+<p>One of the things you may find hardest to cope with is other people’s reactions. Because <a href="/how-we-can-help/bereavement-information/supporting-someone-else/what-to-say">people don’t know what to say</a>, they often avoid talking about the person who has died, or the feelings you might have. When you mention the person, they may seem awkward or ignore the comment. This can be extremely painful, as it can feel like they are behaving as if the person didn’t exist. It can also feel very isolating, as you may feel embarrassed to mention the person, or ‘out of sync’ with the people around you.</p>
+<p>However, your friend or relative was and will always be important in your life. You shouldn’t feel bad that you might mention them in conversation or want to talk about them. Sometimes other people will take their lead from you. If you talk about your friend or relative, or explain that it is important to you that everyone still talks about them, it can help other people know how to respond. <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="c09fe7d0-7dc1-4e0c-afd6-c461300dfc39" href="/how-we-can-help/bereavement-information/support-for-yourself/grief-support-groups" title="Grief support groups ">Support groups</a>, such as <a href="https://community.sueryder.org/">our Online Bereavement Community</a>, can really help as you can share your feelings – such as saying you still miss them – with people who empathise and don’t judge.</p>
+
+
+              </div>
+    </div>
+  </div>
+
+    <div class="paragraph paragraph--type--quote paragraph--view-mode--default">
+    <div class="paragraph--inner">
+      <blockquote class="paragraph--content">
+                    <p>Rather than getting easier, my grief feels denser. I'm so tired - tired of trying to adjust to my situation, tired of feeling vulnerable, tired of feeling profoundly sad, tired of feeling fear, tired of feeling alone.</p>
+
+  <footer>
+    <cite class="field__item"><p>‘Mentally, physically, emotionally exhausted’ - a quote from our Online Bereavement Community</p>
+</cite>
+  </footer>
+
+              </blockquote>
+    </div>
+  </div>
+
+    <div class="paragraph paragraph--type--text-image paragraph--view-mode--default paragraph--orientation--image-left--text-right">
+    <div class="paragraph--inner">
+      <div class="paragraph--content">
+                    <h3 id="cant_move_on"><strong>People think I should move on, but I can’t</strong></h3>
+<p>It is common for other people, perhaps because they find it hard to cope with your grief, to encourage you to move on. People may even say that the person you loved would not have wanted you to still be grieving.</p>
+<p>All these comments and some of the expectations and unintentional pressure applied by other people can make you feel as if you should have moved on in some way. But there is no timetable or timeline for grief. It is completely normal to feel profoundly sad for more than a year, and sometimes many years, after a person you love has died.</p>
+<p>Don’t put pressure on yourself to feel better or move on because other people think you should. Be compassionate with yourself and take the space and time you need to grieve. You can’t get over the death of someone you love and who has been important in your life in a year or to a set timeline. Your life has changed and can never be the same as it was when the person was alive.</p>
+<p>How you feel depends on a range of things, including your relationship with them and your stage of life. It is completely normal to live with a deep sense of sadness. People sometimes make assumptions about what you should be doing or have done – like <a href="/how-we-can-help/bereavement-information/practical-issues/money-and-belongings">sorting out your friend or relative’s belongings</a>. They see these activities as markers of how ‘well’ you’re doing.</p>
+<p>But there is no right or wrong time for doing things. You should only do things at the time that feels right for you. You might choose to sort out your friend or relative’s belongings out a little at a time. You might do it after three months, six months, a year, three years or more. You may never do it, because having your friend or relative’s belongings around you is a comfort to you.</p>
+<p>Everyone is different and all of these are normal.</p>
+<h3 id="other_people"><strong><strong><strong>Other people seem to be coping better than me</strong></strong></strong></h3>
+<p>Comparing how you are feeling and coping with how you think other people are doing is a very common thing to do. You might compare yourself to another family member, or perhaps a neighbour whose husband has died. You might think that other people are coping or somehow doing better than you.</p>
+<p>But it’s important to remember that even though you may be mourning the same person, your relationship with them was different.</p>
+<p>The practical aspects – like being their main carer or always phoning them on a Sunday – are different, and what you have lost is different. These differences mean you cannot compare your feelings to someone else’s. You should also bear in mind that it is impossible to know how people are feeling or coping when they aren’t with you. They may seem fine in public, but feel distressed in private. In other words, you need to be gentle with yourself.</p>
+<p>Don’t put expectations on yourself that you should be doing things in the same way or at the same time as other people seem to be.</p>
+<p><strong><a href="https://www.researchgate.net/publication/289099404_Trajectories_of_grieving" target="_blank" title="'Trajectories of grieving' journal article ">Read the journal article 'Trajectories of grieving' on ResearchGate</a>, which looks at how we all react and cope differently after the death of someone close.</strong></p>
+<h3 id="socialising"><strong><strong><strong><strong><strong>I can’t face socialising or meeting up with friends</strong></strong></strong></strong></strong></h3>
+<p>You may well find social activities such as meeting up with friends difficult. Sometimes, if it is your partner who has died, you may find it hard to go out with other couples, even though they may have been close friends. You may feel jealous that your friends are still a couple. Or it may be a painful reminder that your own partner is no longer there.</p>
+<p>If it was a child – even a grown-up child, or grandchild – who has died, you may find it hard to hear others talking about their own children or grandchildren. You may worry that others won’t want to be around you when you’re miserable.</p>
+<p>Or it may be that you just can’t face going out. These feelings are all normal and most people experience them at some point. Eventually, if you never go out when people ask you, people may stop asking. In the short-term that may feel ok, but over time socialising with friends and not becoming too isolated can help you to cope. Rather than say ‘no’ every time, perhaps you can try to go out every other time someone asks you.</p>
+<p>You can always let people know that you would like to see them, but may want to leave early. You may find it hard to be with a large group or to be around a lot of people, but feel you can cope better if it is only a couple of friends. You could let your friends know how you are feeling, and perhaps arrange to see only one or two people at a time. It may be hard to socialise because you don’t have many friends or family around you.</p>
+<p>For example, if your family live far away, or if you have been very focused on doing things as a couple, rather than with friends or a social group. When you already feel like you are struggling, building new friendships may feel like hard work. A group for people who are bereaved can be a good starting point for being able to share some of your feelings and ensuring that you do not become too isolated. A local group that shares some of your interests – whether that be handicrafts, walking or something completely different – can also be a good starting point.</p>
+<h3 id="overwhelmed_grief"><strong><strong><strong><strong><strong><strong><strong>I feel overwhelmed by grief and just want it to stop</strong></strong></strong></strong></strong></strong></strong></h3>
+<p>Sometimes your feelings of grief might be so painful that you feel overwhelmed. You may find it hard to see meaning or purpose in your life, and want to find a way to make it stop. It is not unusual to feel that you can’t cope with the intensity of your grief, but most people can and do.</p>
+<p>These very intense emotions are a normal response to the death of someone that you love and they can last a long time. If you feel you are not coping, or if you know the way you are coping is not good for you – for example if you are drinking alcohol heavily – you might want to get some help to cope.</p>
+<p>That help might be talking with your GP or some form of prescription medicine, like antidepressants. Your GP is a good starting point, as they can refer you to support. If necessary they can prescribe medication that can take the edge off the intensity of your feelings, and that might help you if you are struggling to sleep.</p>
+<h3 id="cant_talk"><strong><strong><strong><strong><strong><strong><strong><strong><strong>I can’t talk to people about how I’m feeling</strong></strong></strong></strong></strong></strong></strong></strong></strong></h3>
+<p>There are lots of reasons why you might find it hard to talk about how you’re feeling. If you are not normally someone who talks about your emotions, you are not likely to start now.</p>
+<p>But you may find that other people who are also grieving do want to talk about it, or want you to talk about it. When this happens you need to try to find a way to be sensitive to each other’s needs, whilst coping with your feelings in your own way. When someone dies, relationships and communications within families can become strained. Sometimes families don’t talk to each other about their emotions.</p>
+<p>It may be that you would normally talk about things together, but you don’t want to because you know you’ll get upset or the person you’re talking to will get upset. It can help if you are able to find ways that you can talk. In other cases, it may be that you feel you can’t talk about your feelings because other people won’t understand, or because you feel they expect you to have moved on.</p>
+<p>While no-one can understand exactly how you are feeling, you may find sharing your feelings and experiences with others at a support group or <a href="https://community.sueryder.org/" title="Sue Ryder Online Bereavement Community">online</a> can help.</p>
+<h3 id="grieving_at_all"><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong>People don’t think I should be grieving at all</strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></h3>
+<p>Sometimes the nature of your relationship with the person who has died means that other people don’t expect you to grieve. This often happens when your relationship was distant in some way. This might be because you hardly ever saw the person, had a difficult relationship with them or were estranged, such as if you were divorced from them.</p>
+<p>If this is the case, your sense of grief may take you by surprise, and other people may also struggle to understand what you are feeling. Sometimes, perhaps because people didn’t know you were in a relationship with the person, people may not realise you are grieving.</p>
+<p>All these things may make you feel, and may make other people assume, that your grief is somehow not valid, or that your feelings should be less strong. When this happens you don’t have the emotional support around you that other people normally get.</p>
+<p>It may mean that you do not feel able to share your feelings with those around you, or openly grieve. It can be helpful to find another outlet for your feelings, such as <a href="https://www.sueryder.org/online-bereavement-counselling">bereavement counselling</a>, a support group or an <a href="https://community.sueryder.org/">online community</a>.</p>
+ </div>
+
+
+
+
+</body>
+
+
+
+

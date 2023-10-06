@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Online Bereavement Support</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+  font-family: interface, Arial, sans-serif;
+}
+
+body {
+  margin: 0;
+  font-family: interface, Arial, sans-serif;
+}
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #005c94;
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: right;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover - Sue Ryder light blue*/
+.topnav a:hover {
+  background-color: #00abe4;
+  color: black;
+}
+
+/* Style the content */
+.content {
+  background-color: #0000;
+  padding: 10px;
+  height: 200px; /* Should be removed. Only for demonstration */
+}
+
+/* Style the footer */
+.footer {
+  color: #f2f2f2;
+  background-color: #005c94;;
+  padding: 10px;
+}
+</style>
+</head>
+<body>
+
+<div class="topnav">
+  <a href="#">Our hospices</a>
+  <a href="#">Volunteer (form)</a>
+  <a href="#">Get in touch (form)</a>
+</div>
+
+<div class="content">
+  <h2>Online Bereavement Support</h2>
+  <p>If you are grieving after a bereavement, supporting someone else or helping a child or young person coping with grief, you are not alone. Our expert information and advice can help you or someone close to you cope with grief and deal with the practical issues after someone has died.</p>
+</div>
+
+<div class="footer">
+  <p><strong>Footer title<strong></p>
+  <a href="#">Jobs</a>
+  <a href="#">Contact us</a>
+  <a href="#">For healthcare professionals</a>
+</div>
+
+</body>
+</html>
