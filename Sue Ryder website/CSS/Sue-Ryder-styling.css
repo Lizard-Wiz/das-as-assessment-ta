@@ -1,0 +1,421 @@
+
+* {
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.skip {
+  position: absolute;
+  left: -10000px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+
+.skip:focus {
+  position: static;
+  width: auto;
+  height: auto;
+  color: white
+}
+
+body {
+  background-color: #fffff;
+  color: black;
+  font-family: interface, Arial, sans-serif;
+}
+
+h1 {
+  color:black;
+}
+
+h2, h3, h4, h5, h6 {
+color: #005c94;
+}
+
+/* Colour of bullet points for unordered list items */
+ul li::before {
+  color: #005c94;
+}
+
+/* Block quote */
+.citation {
+  color: #e0107f;
+  font-style: normal;
+}
+
+/* Style the top navigation bar */
+.top-nav {
+  padding: 0 10px;
+  background-color: #005c94;
+  height: 84px;
+  display: flex;
+  justify-content: space-between;
+  overflow: visible;
+}
+
+ /* Style the topnav links */
+ .top-nav-a {
+  text-decoration: none;
+  padding: 1px;
+  margin: 10px; 
+}
+
+/* Sue Ryder logo styling in nav bar */
+#logo {
+  float: left;
+  height: 50px;
+  width: 100px;
+  margin: 10px 15px 15px 10px;
+  background: white;
+}
+
+/* Sue Ryder logo link styling in nav bar */
+#logo a {
+  width: 200px;
+  height: 150px;
+  border-radius: 25px;
+  color:#ffdd00
+}
+
+#hamburger-icon {
+  margin: auto 0;
+  display: none;
+  cursor: pointer;
+}
+
+#hamburger-icon div {
+  width: 35px;
+  height: 3px;
+  background-color: white;
+  margin: 6px 0;
+  transition: 0.4s;
+}
+
+.open .bar1 {
+  -webkit-transform: rotate(-45deg) translate(-6px, 6px);
+  transform: rotate(-45deg) translate(-6px, 6px);
+}
+
+.open .bar2 {
+  opacity: 0;
+}
+
+.open .bar3 {
+  -webkit-transform: rotate(45deg) translate(-6px, -8px);
+  transform: rotate(45deg) translate(-6px, -8px);
+}
+
+.topnav-ul {
+  list-style: none;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.topnav-ul-a {
+  color: white;
+  text-decoration: none;
+}
+
+.topnav-ul-a:hover {
+  color: black;
+  text-decoration: none;
+}
+
+.topnav-ul-li {
+  padding: 5px;
+  margin-left: 10px;
+}
+
+/* Change color on hover to Sue Ryder light blue*/
+.topnav-ul-li:hover {
+  transform: scale(1.1);
+  transition: 0.3s;
+  background-color: #00abe4;
+  color: black;
+  border-radius:60px;
+  padding: 6px;
+}
+
+#getintouch {
+border-radius: 60px;
+padding: 3px 4px;
+border: 3px solid #ffdd00;
+}
+
+#getintouch-a {
+color: white;
+text-decoration: none;
+}
+
+#getintouch-a:hover {
+  color: black;
+  text-decoration: none;
+  }
+
+.open .mobile-menu {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.mobile-menu {
+  display: none;
+  position: absolute;
+  top: 50px;
+  left: 0;
+  height: calc(100vh - 50px);
+  width: 100%;
+}
+
+.mobile-menu li {
+  margin-bottom: 10px;
+}
+
+@media only screen and (max-width: 600px) {
+  header nav {
+    display: none;
+  }
+
+  #hamburger-icon {
+    display: block;
+  }
+}
+
+/* For responsive images across the site */
+.responsive-image {
+  width: 100%;
+  height: auto;
+}
+
+/* Homepage hero image & text */
+.homepage-hero {
+display: flex;  
+background-color: lightgrey;
+background-image: url("/images/Sue-Ryder-Nurse-smiling-by-hospice-window_header-2.jpg");
+background-size: cover;
+color: black;
+padding-top: 200px;
+padding-bottom: 200px;
+position: relative;
+}
+
+.homepage-hero-container {
+padding: 10px;
+position: relative;
+}
+
+/* Top homepage container with image and text */
+.homepage-container-top {
+  position: relative;
+  border-color:#e0107f;
+}
+
+/* Bottom right text for top homepage block*/
+.homepage-text-block-top {
+  font-size: 2vw;
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  background-color: white;
+  color: black;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  border-radius: 80px;
+}
+
+.homepage-block-link-text {
+  text-decoration: none;
+}
+
+.hero-obs {
+  background-color: lightgrey;
+  background-image: url("/images/Two-people-holding-hands_header.jpg");
+  background-size: cover;
+  color: white;
+  padding-top: 300px;
+  padding-bottom: 200px;
+  padding-left: 10px;
+  display: flex;
+}
+
+.container.obs {  
+
+}
+
+.obs-h1 {
+  color: white;
+}
+
+.hero-supporting-yourself {
+  background-color: lightgrey;
+  background-image: url("/images/young-woman-grieving_main.jpg");
+  background-size: cover;
+  colour: black;
+  padding-top: 200px;
+  padding-bottom: 200px;
+  display: flex;
+}
+
+.container-hero-supporting-yourself {
+  position: relative;
+}
+
+/* Support landing page container with image and text */
+.support-landing-container-top {
+  position: relative;
+  border-color:#e0107f;
+}
+
+/* Bottom left text for support landing page */
+.support-landing-text-block-left {
+  font-size: 2vw;
+  position: absolute;
+  bottom: 20px;
+  left: 10px;
+  background-color: white;
+  color: black;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  border-radius: 80px;
+  border: solid 1px black;
+}
+
+/* Bottom right text for support landing page */
+.support-landing-text-block-right {
+  font-size: 2vw;
+  position: absolute;
+  bottom: 20px;
+  right: 10px;
+  background-color: white;
+  color: black;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  border-radius: 80px;
+  border: solid 1px black;
+}
+
+.support-landing-link-text {
+  text-decoration: none;
+}
+
+/* Webform styling */
+.form-body {
+  color: black;
+  font-family: interface, Arial, sans-serif;
+  font-size: 12px;
+  background-color: lightgray;
+  width: 90%;
+  margin: 20vh auto 0 auto;
+  border-radius: 4px;
+  padding: 7px;
+
+}
+
+.form-h1 {
+  text-align: center;
+  font-size: 36px;
+}
+
+.form-h3 {
+  padding-top: 12px;
+  padding-bottom: 2px;
+  color: black;
+  font-size: 24px;
+}
+
+.form-submit-button {
+  background-color: #ffdd00;
+  padding: 6px;
+  width: 300px;
+  border: solid 3px black;
+  border-radius: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.form-submit-button:hover {
+  color: #ffffff;
+  background-color: #005c94;
+}
+
+.form-inputs {
+  display: flex;
+  flex-direction: column;
+  padding: 3px;
+  margin: 6px;
+  width: 70%;
+}
+
+.form-inputs input:focus {
+  outline: 0;
+}
+
+.form-legend {
+  padding: 12px;
+  font-size: 16px;
+}
+
+.form-fieldset {
+  border:0 none;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.quote {
+  border: 1px #005c94;
+border-style: solid none;
+padding: 5px;
+}
+
+/* Footer content styling */
+.footer-header{
+  color: black;
+  text-align: center;
+  padding: 10px;
+  margin-left: 10px;
+  border-top: solid 2px #005c94;
+  border-bottom: solid 2px #005c94; 
+  background-color: rgb(206, 167, 167)
+}
+
+#footer-links-hover:hover {
+transform: scale(1.03);
+transition: 0.3s;
+background-color: #00abe4;
+color: black;
+border-radius:12px;
+padding: 16px;
+}
+
+.footer-links {
+  color: white;
+  text-decoration: none;
+  background-color: #005c94;
+  height: 50px;
+  display: inline-block;
+  justify-content: space-between;
+  flex-direction: row;
+  display: flex;
+  text-align: center;
+  border: 1px ridge #00abe4;
+  border-radius: 66px;
+  padding: 12px;
+}

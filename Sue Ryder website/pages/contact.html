@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en-gb">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="author" content="Tommy Ackerman">
+<meta name="description" content="A contact form to get in touch with Sue Ryder">
+<meta name="keywords" content="Sue Ryder, contact form, contact">
+<link rel="stylesheet" href="/CSS/Sue-Ryder-styling.css"/>
+<title>Contact us | Sue Ryder</title>
+</head>
+<body>
+  <header class="top-nav">
+    <a class="skip" href="#main">Skip to main content</a>
+    <div id="logo"><a href="/"><img src="/images/sue-ryder_logo_main_nav-bar.jpg" 
+      alt="Sue Ryder logo" class="responsive-image"></a>
+    </div>
+    <nav>
+      <ul class="topnav-ul">
+        <li class="topnav-ul-li"><a class="topnav-ul-a" href="/pages/online-bereavement-support.html">Online Bereavement Support</a></li>
+        <li class="topnav-ul-li"><a class="topnav-ul-a" href="/pages/about.html">About us</a></li>
+        <li class="topnav-ul-li" id="getintouch"><a id="getintouch-a" href="/pages/contact.html">Get in touch</a></li>
+      </ul>
+    </nav>
+      <div id="hamburger-icon" onclick="toggleMobileMenu(this)">
+        <div class="bar1"></div>
+        <div class="bar2"></div>
+        <div class="bar3"></div>
+        <ul class="mobile-menu">
+            <li class="mobile-menu"><a class="mobile-menu" href="/pages/online-bereavement-support.html">Online Bereavement Support</a></li>
+            <li class="mobile-menu"><a class="mobile-menu" href="/pages/about.html">About us</a></li>
+            <li class="mobile-menu"><a class="mobile-menu" href="/pages/contact.html">Get in touch</a></li>
+        </ul>
+      </div>
+      </div>
+ </header>
+ 
+ <main id="main">
+<h1>Get in touch</h1>
+<img src="/images/sue-ryder-shop-volunteer-at-till_main.jpg" 
+   alt="A Sue Ryder shop volunteer serving a customer at the till" class="responsive-image">
+
+<p><strong>Fill out our form below to get in touch with us.</strong></p>
+<p>Once you've provided a few details, we'll put you in touch with the 
+   relevant team, who will contact you as soon as they can.</p>
+  <div id="form-error"></div>
+ <form name="contactForm" class="form-body" id="contact-form" aria-label="Contact Sue Ryder" 
+  onsubmit="return validateForm()" action="/" method="GET" accept-charset="UTF-8">
+  <h2 class="form-h1">Our contact form</h2>
+  <p><strong>Required fields are marked with an asterisk (<abbr class="req" title="required">*</abbr>).</strong></p>
+    <section>
+    <h3 class="form-h3">Contact information</h3>
+  <fieldset class="form-fieldset">
+    <legend class="form-legend"><strong>Your contact details</strong></legend>
+    <label for="firstname">First name *</label><br>
+    <input type="text" class="form-inputs" id="firstname" name="firstname" autocomplete="given-name" required><br>
+    <label for="lastname">Last name *</label><br>
+    <input type="text" class="form-inputs" id="lastname" name="lastname" autocomplete="family-name" required><br>
+    <label for="email">Your email *</label><br>
+    <input type="text" class="form-inputs" id="email" name="email" autocomplete="email" required><br>
+    <label for="phone">Phone *</label><br>
+    <input type="text" class="form-inputs" id="phone" name="phone" autocomplete="tel-local" required><br>
+  </fieldset>   
+</section>
+  <h3 class="form-h3">Contact preferences</h3>   
+  <fieldset class="form-fieldset">
+    <legend class="form-legend"><strong>How would you like to be contacted? *</strong></legend>
+    <input type="radio" class="form-inputs" id="phone_pref" name="contact_pref" value="Phone" required>
+    <label for="phone_pref">Phone</label><br>
+    <input type="radio" class="form-inputs" id="email_pref" name="contact_pref" value="Email" required>
+    <label for="email_pref">Email</label><br>
+  </fieldset>
+<section>
+  <h3 class="form-h3">What would you like to talk with us about?</h3>  
+  <fieldset class="form-fieldset">
+    <legend class="form-legend"><strong>So that we can put you in touch with the right team, please select what you would like to know more about</strong></legend>
+    <input type="checkbox" class="form-inputs" id="palliative-care" name="contact-talk-about" value="palliative-care">
+    <label for="palliative-care">Palliative care</label><br>
+    <input type="checkbox" class="form-inputs" id="neuro-care" name="talk-about" value="neuro-care">
+    <label for="neuro-care">Neurological care</label><br>
+    <input type="checkbox" class="form-inputs" id="bereavement-support" name="contact-talk-about" value="bereavement-support">
+    <label for="bereavement-support">Bereavement support</label><br>
+    <input type="checkbox" class="form-inputs" id="contact-other" name="contact-talk-about" value="contact-other">
+    <label for="contact-other">Other</label><br><br>
+    <label for="contact-other-details">If 'Other', please provide some more detail</label><br>
+    <input type="text" class="form-inputs" id="contact-other-details" name="contact-talk-about"><br>
+  </fieldset>
+</section>
+  <br><footer>We'll never share you data and you can unsubscribe at any time. See how we store and use your data in our <a href="https://www.sueryder.org/privacy-policy">privacy policy.</a></footer>
+    <br><button class="form-submit-button" id="contactsubmit" type="submit" value="contactsubmit" aria-label="Submit">Get in touch</button>
+ </form>
+</main>
+
+ <footer class="footer">
+  <p class="footer-header"><strong>We're there when it matters<strong></p>
+    <a href="/pages/contact.html" class="footer-links" id="footer-links-hover">Contact us</a>
+    <a href="/pages/privacy-policy.html" class="footer-links" id="footer-links-hover">Privacy policy</a>
+    <a href="/pages/accessibility.html" class="footer-links" id="footer-links-hover">Accessibility</a>
+ </footer>
+
+    <script src="/Javascript/index.js"></script>
+  </body>
+</html>
