@@ -42,6 +42,6 @@ if (phone.value === "") {
 
 return true;
 
-}
+};
 
 submit.addEventListener('click', validate);

@@ -21,7 +21,7 @@
 }
 
 body {
-  background-color: #fffff;
+  background-color: #ffffff;
   color: black;
   font-family: interface, Arial, sans-serif;
 }
@@ -196,12 +196,14 @@ text-decoration: none;
 .homepage-hero {
 display: flex;  
 background-color: lightgrey;
-background-image: url("/images/Sue-Ryder-Nurse-smiling-by-hospice-window_header-2.jpg");
+background-image: url("/images/sue-ryder-nurse-smiling-by-hospice-window-header-2.jpg");
 background-size: cover;
 color: black;
 padding-top: 200px;
 padding-bottom: 200px;
 position: relative;
+background-position: center center;
+background-repeat: no-repeat;
 }
 
 .homepage-hero-container {
@@ -236,7 +238,7 @@ position: relative;
 
 .hero-obs {
   background-color: lightgrey;
-  background-image: url("/images/Two-people-holding-hands_header.jpg");
+  background-image: url("/images/two-people-holding-hands-header.jpg");
   background-size: cover;
   color: white;
   padding-top: 300px;
@@ -245,19 +247,15 @@ position: relative;
   display: flex;
 }
 
-.container.obs {  
-
-}
-
 .obs-h1 {
   color: white;
 }
 
 .hero-supporting-yourself {
   background-color: lightgrey;
-  background-image: url("/images/young-woman-grieving_main.jpg");
+  background-image: url("/images/young-woman-grieving-main.jpg");
   background-size: cover;
-  colour: black;
+  color: black;
   padding-top: 200px;
   padding-bottom: 200px;
   display: flex;
@@ -380,7 +378,7 @@ position: relative;
 }
 
 .quote {
-  border: 1px #005c94;
+border: 1px #005c94;
 border-style: solid none;
 padding: 5px;
 }
@@ -390,19 +388,9 @@ padding: 5px;
   color: black;
   text-align: center;
   padding: 10px;
-  margin-left: 10px;
   border-top: solid 2px #005c94;
   border-bottom: solid 2px #005c94; 
   background-color: rgb(206, 167, 167)
-}
-
-#footer-links-hover:hover {
-transform: scale(1.03);
-transition: 0.3s;
-background-color: #00abe4;
-color: black;
-border-radius:12px;
-padding: 16px;
 }
 
 .footer-links {
@@ -418,4 +406,13 @@ padding: 16px;
   border: 1px ridge #00abe4;
   border-radius: 66px;
   padding: 12px;
+}
+
+.footer-links:hover {
+transform: scale(1.03);
+transition: 0.3s;
+background-color: #00abe4;
+color: black;
+border-radius:12px;
+padding: 16px;
 }
